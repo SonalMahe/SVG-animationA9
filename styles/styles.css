@@ -7,8 +7,19 @@ h1{
     font-style: italic;
     font-size: 30px;
 }
+h2{
+    font-weight: bold;
+    font-size: 30px;
+    font-style: oblique;
+}
+
 .youtube{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.youtubebutton{
+    fill:aqua;
+    stroke:black;
 }
